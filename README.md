@@ -14,7 +14,14 @@
 
  </div>
  
-  A Computer Science and Engineering student focused on real-time decision-making and data visualization
+  A Computer Science and Engineering student coding for fun perherps
+  <br/>
+
+   <div align="center">
+ 
+<img align="center" height="140" src="https://i.imgflip.com/7m4wl6.gif"  />
+
+ </div>
   </h3>
 
 
