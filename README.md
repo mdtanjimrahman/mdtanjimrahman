@@ -52,7 +52,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,autocad,arduino" /> <br/>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /> </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" /> </a>
+    <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /> </a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /> </a>
+    <a href="https://www.autodesk.com/products/autocad/free-trial" target="_blank"><img src="https://skillicons.dev/icons?i=autocad" /> </a>
+    <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /> </a>
+    <br/>
     <img src="https://skillicons.dev/icons?i=js,python,c,cpp,cs,dotnet,java,mysql,matlab" /><br>
 </div>
 
