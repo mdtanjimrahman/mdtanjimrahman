@@ -71,7 +71,7 @@
 <br>
 <div align="center">
   <a href="https://gitroll.io/profile/uNgYoKxY7HMUGpEtVLoauJqCTOLt1">
-    <img width=600 src="https://gitroll.io/api/badges/profiles/v1/uNgYoKxY7HMUGpEtVLoauJqCTOLt1" alt="GitRoll Profile Badge" />
+    <img width=500 src="https://gitroll.io/api/badges/profiles/v1/uNgYoKxY7HMUGpEtVLoauJqCTOLt1" alt="GitRoll Profile Badge" />
   </a>
   <br/>
 </div>
