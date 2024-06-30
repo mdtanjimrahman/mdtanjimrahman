@@ -66,6 +66,23 @@
 <br/>
 <hr/>
 
+
+<h2 align="center">🌟 GitHub Roll Badge 🌟</h2>
+<br>
+<div align="center">
+  <a href="https://gitroll.io/profile/uNgYoKxY7HMUGpEtVLoauJqCTOLt1">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uNgYoKxY7HMUGpEtVLoauJqCTOLt1" alt="GitRoll Profile Badge" />
+  </a>
+  <br/>
+</div>
+
+
+
+
+<br/><br/>
+
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
