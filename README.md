@@ -48,6 +48,7 @@
 </div>
 
 <hr/>
+<br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -68,7 +69,7 @@
 
 
 
-<br/><br/>
+<br/>
 
 
 
@@ -79,7 +80,7 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimmm&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
     <br/>
 </div>
-
+<br/><br/>
 
 
 
