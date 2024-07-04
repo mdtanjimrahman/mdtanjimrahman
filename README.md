@@ -67,17 +67,6 @@
 <hr/>
 
 
-<h2 align="center">🌟 GitHub Roll Badge 🌟</h2>
-<br>
-<div align="center">
-  <a href="https://gitroll.io/profile/uNgYoKxY7HMUGpEtVLoauJqCTOLt1">
-    <img width=500 src="https://gitroll.io/api/badges/profiles/v1/uNgYoKxY7HMUGpEtVLoauJqCTOLt1" alt="GitRoll Profile Badge" />
-  </a>
-  <br/>
-</div>
-
-
-
 
 <br/><br/>
 
@@ -89,6 +78,18 @@
   <img width="453" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimmm&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimmm&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
     <br/>
+</div>
+
+
+
+
+<h2 align="center">🌟 GitHub Roll Badge 🌟</h2>
+<br>
+<div align="center">
+  <a href="https://gitroll.io/profile/uNgYoKxY7HMUGpEtVLoauJqCTOLt1">
+    <img width=500 src="https://gitroll.io/api/badges/profiles/v1/uNgYoKxY7HMUGpEtVLoauJqCTOLt1" alt="GitRoll Profile Badge" />
+  </a>
+  <br/>
 </div>
 
 
