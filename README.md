@@ -45,6 +45,9 @@
   <a href="https://wa.me/+8801740717087" target="_blank">
      <img src="https://img.shields.io/badge/Whatsapp-25FF0000?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tanjimpromise252000@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 </div>
 
 <hr/>
