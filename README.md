@@ -39,9 +39,6 @@
 
 
  <div align="center"> 
-  <a href="https://www.facebook.com/rahman.tanjimm/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
-  </a>
   <a href="https://wa.me/+8801740717087" target="_blank">
      <img src="https://img.shields.io/badge/Whatsapp-25FF0000?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -101,6 +98,15 @@
   <br/>
 </div>
 
+
+
+
+
+<!--
+<a href="https://www.facebook.com/rahman.tanjimm/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
+  </a>
+  -->
 
 <br/><br/>
 
