@@ -81,7 +81,7 @@
 
 <br/>
 
-<img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjimmm&theme=react&exclude=8&border=ffffff" alt="repos per language"/>
+<img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanjimmm&theme=react&exclude=8&border=ffffff" alt="commits per language"/>
 <img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanjimmm&theme=react&utcOffset=6&border=ffffff" alt="productive time"/>
 
 </div>
