@@ -94,10 +94,11 @@
 <br>
 <div align="center">
   <a href="https://gitroll.io/profile/uNgYoKxY7HMUGpEtVLoauJqCTOLt1">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uNgYoKxY7HMUGpEtVLoauJqCTOLt1?theme=react" alt="GitRoll Profile Badge" width="650" height="380">
-</a>
+    <img src="https://gitroll.io/api/badges/profiles/v1/uNgYoKxY7HMUGpEtVLoauJqCTOLt1?theme=react" alt="GitRoll Profile Badge" style="max-width: 100%; height: auto; width: 650px; max-height: 380px;">
+  </a>
   <br/>
 </div>
+
 
 <!--
 <a href="https://www.facebook.com/rahman.tanjimm/" target="_blank">
