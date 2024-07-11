@@ -75,11 +75,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-    <img width="453" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimmm&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimmm&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img width="453" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimmm&count_private=true&theme=react&border_radius=10" alt="streak stats" style="margin: 10px;" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimmm&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" style="margin: 10px;" />
 
 <br/>
+
 
 <img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanjimmm&theme=react&exclude=8&border=ffffff" alt="commits per language"/>
 <img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanjimmm&theme=react&utcOffset=6&border=ffffff" alt="productive time"/>
