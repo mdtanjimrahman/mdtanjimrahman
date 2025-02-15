@@ -31,7 +31,7 @@
  
  🔭 I’m currently studying and working on some **institutional project**
  
- 🌱 I’m currently learning **PHP, Python**
+ 🌱 I’m currently learning **Go, Python, R**
 
 ⚡ Fun fact: **"Programmers never die, they just go offline!"**
 
@@ -60,7 +60,7 @@
     <a href="https://www.autodesk.com/products/autocad/free-trial" target="_blank"><img src="https://skillicons.dev/icons?i=autocad" /> </a>
     <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /> </a>
     <br/>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,python,mysql,matlab,html,css,php,js" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,java,python,r,mysql,matlab,html,css,php,js" /><br>
 </div>
 
 
