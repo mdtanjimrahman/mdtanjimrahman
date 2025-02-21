@@ -77,13 +77,14 @@
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
    <!-- <img width="453" src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanjimrahman&count_private=true&theme=react&border_radius=10" alt="streak stats" style="margin: 10px;" /> -->
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanjimrahman&hide=html&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" style="margin: 10px;" />
+    <a href="https://git.io/streak-stats"><img width="453" src="https://streak-stats.demolab.com?user=mdtanjimrahman&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanjimrahman&hide=html&langs_count=6&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" style="margin: 10px;" />
 
 <br/>
 
 
-<img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdtanjimrahman&theme=react&exclude=8&border=ffffff" alt="commits per language"/>
-<img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdtanjimrahman&theme=react&utcOffset=6&border=ffffff" alt="productive time"/>
+<img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdtanjimrahman&theme=dark&exclude=&border= #ffffff&border_radius=15" alt="commits per language"/>
+<img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdtanjimrahman&theme=dark&utcOffset=6&border=ffffff&border_radius=15" alt="productive time"/>
 
 </div>
 <br/><br/>
